@@ -1,4 +1,10 @@
-## Hi there 👋
+### About me
+
+Hi there! I'm a software engineer specializing in the Rust programming language. I also have a deep interest in programming language design and implementation.
+
+You can find my resume [here](patrick_sullivan_cv.pdf).
+
+
 
 <!--
 **patrickcsullivan/patrickcsullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
