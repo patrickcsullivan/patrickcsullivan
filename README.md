@@ -8,7 +8,7 @@ You can find my resume [here](patrick_sullivan_cv.pdf).
 
 Some of my recent job-related contributions have been to open-source projects. 
 
-- While working for OpenObserve, I made many contributions to the company's open-source observability platform. [Here](https://github.com/openobserve/openobserve/pulls?q=is%3Apr+author%3Apatrickcsullivan+is%3Aclosed) is a list of my PRs for that project. 
+- While working for OpenObserve, I worked on the company's open-source observability platform. [Here](https://github.com/openobserve/openobserve/pulls?q=is%3Apr+author%3Apatrickcsullivan+is%3Aclosed) is a list of my PRs for that project. 
 - While working for Sybridge, I wrote and published an open-source library for performing asynchronous, event-driven job orchestration. That repository is [here](https://github.com/patrickcsullivan/job_orch).
 - In order to learn more about 3D graphics, I attempted to port to Rust some of the rendering logic from the [_Physically Based Rendering_](https://www.pbrt.org/) book and its accompanying C++ library. That repository is [here](https://github.com/patrickcsullivan/part_renderer). Although this was a personal project that I pursued in my free time, my team and I at Sybridge ended up incorporating this tool into our production application to generate 3D screenshots for CAD files that customers uploaded to the platform.
 
