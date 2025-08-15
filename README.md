@@ -4,7 +4,7 @@ Hi there! I'm a software engineer specializing in the Rust programming language.
 
 You can find my resume [here](patrick_sullivan_cv.pdf).
 
-### 🔨 Professional open-source highlights:
+### 🔨 Professional open-source highlights
 
 Some of my recent job-related contributions have been to open-source projects. 
 
@@ -14,7 +14,7 @@ Some of my recent job-related contributions have been to open-source projects.
 
 Outside of the projects listed above, most of my job-related contributions have been to private repositories. 
 
-### 📚 Personal and academic highlights:
+### 📚 Personal and academic highlights
 
 Many of my personal and academic interests in computer science revolve around programming language design and immplementation. Here are a few of my personal projects and writings in that space:
 
