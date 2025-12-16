@@ -1,6 +1,6 @@
 ### 👋 About me
 
-Hi there! I'm a software engineer specializing in the Rust programming language. I'm also interested in programming language design and implementation.
+Hi there! I'm a software engineer specializing in the Rust programming language. I'm also passionate about linguistics and language learning.
 
 You can find my resume [here](patrick_sullivan_cv.pdf).
 
